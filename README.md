@@ -1,0 +1,1 @@
+Converts extracted SAGA image resources for Inherit the Earth: Quest for the Orb (MS-DOS version) to *.png files. Also works for I Have No Mouth and Must Scream, however, these need to be vertically flipped.
